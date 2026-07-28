@@ -1,5 +1,5 @@
 <?php
 
-header("Location: https://www.correoargentino.com.ar/");
+header("Location: ");
 
 ?>
